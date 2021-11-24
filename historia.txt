@@ -1,3 +1,4 @@
 Prueba clase número 8 de git
 
-está es la prueba de funcinoamiento para la clase 8
+está es la prueba de funcinoamiento para la clase 8 
+se modifica por cambios a consignar en el registro de git
