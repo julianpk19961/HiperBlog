@@ -1,6 +1,21 @@
 body 
 {
-    color: palevioletred;
+    color: #ffffff;
     text-align:center;
     font-family: "Arial";
+}
+#Container
+{
+
+width: 70 ;
+text-align: left ;
+border: 1px solid #0096ac;
+margin: 0 auto;
+
+}
+
+#Container h1
+{
+
+font-size: 20px;
 }
